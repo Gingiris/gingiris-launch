@@ -9,7 +9,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Gingiris/gingiris-launch?style=social)](https://github.com/Gingiris/gingiris-launch/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-**[English](references/en/README.md) | [中文](#中文版) | [日本語](references/ja/README.md) | [한국어](references/ko/README.md)**
+**[English](#english) | [中文](#中文版) | [日本語](references/ja/README.md) | [한국어](references/ko/README.md)**
 
 </div>
 
@@ -36,6 +36,43 @@ Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://git
 
 ---
 
+## English
+
+> Author: Iris (生姜iris) | Version: Final v7.0 (Feb 2026)
+
+### Core Principles
+
+- **User First, Start with Value** — All content and channel strategies focus on creating real value for target users
+- **Content is King, Channels are Amplifiers** — High-quality content is the foundation; channels just amplify reach
+- **Think Global, Execute Local** — Maintain consistent global branding while localizing for different markets
+- **Quality Over Quantity** — Concentrate budget on high-value touchpoints, not spray-and-pray
+
+### Overall Timeline
+
+| Phase | Timing | Key Milestones |
+|:---|:---|:---|
+| Strategic Prep | L-6 weeks | Define goals, ICP, value prop, keywords, budget |
+| Asset Creation | L-5 to L-4 weeks | Website optimization, brand video, feature videos |
+| Partnership Lock | L-4 to L-3 weeks | KOL screening, UGC recruitment, media outreach |
+| Content Prep | L-3 to L-2 weeks | KOL content packages, UGC scripts, Reddit strategy |
+| Final Confirmation | L-2 to L-1 weeks | Draft approval, launch timing locked |
+| 🚀 **Product Launch** | Launch Day | Launch Week Day 1-5 |
+| Momentum Building | L+1 to +4 weeks | Continuous operations, build momentum |
+| 🎯 **PH Launch** | PH Day | 24-hour battle plan |
+
+### Detailed Guides (English)
+
+| Topic | File |
+|:---|:---|
+| Core Strategy & Cases | [references/en/strategy.md](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/strategy.md) |
+| Preparation SOP | [references/en/preparation.md](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/preparation.md) |
+| Product Launch | [references/en/product-launch.md](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/product-launch.md) |
+| Product Hunt Launch | [references/en/ph-launch.md](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/ph-launch.md) |
+| Channel Templates | [references/en/templates.md](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/templates.md) |
+| Toolkit | [references/en/tools.md](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/tools.md) |
+
+---
+
 ## 中文版
 
 > 作者：Iris (生姜iris) | 版本：Final v7.0 (2026年2月)
@@ -47,20 +84,7 @@ Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://git
 - **全球化思维，本土化执行** — 保持全球一致品牌形象，针对不同市场本土化调整
 - **只要活人，不要僵尸** — 预算集中投入极少数有价值的关键节点，而非撒胡椒面
 
-### 总体时间线
-
-| 阶段 | 时间节点 | 核心里程碑 |
-|:---|:---|:---|
-| 战略准备期 | L-6周 | 确定目标、ICP、价值主张、关键词、预算 |
-| 物料制作期 | L-5周至L-4周 | 官网优化、品牌视频、Feature视频 |
-| 合作锁定期 | L-4周至L-3周 | KOL筛选、UGC招募、媒体沟通 |
-| 内容准备期 | L-3周至L-2周 | KOL内容包、UGC脚本、Reddit策略 |
-| 最终确认期 | L-2周至L-1周 | 草稿确认、发布时间锁定 |
-| 🚀 **产品发布** | Launch Day | Launch Week Day 1-5 |
-| 势能积累期 | L+1周至+4周 | 持续运营，积累势能 |
-| 🎯 **PH发布** | PH Day | 24小时作战计划 |
-
-### 详细指南
+### 详细指南（中文）
 
 | 主题 | 文件 |
 |:---|:---|
@@ -76,14 +100,14 @@ Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://git
 
 ## Quick Navigation (All Languages)
 
-| 🇨🇳 中文 | 🇺🇸 English | 🇯🇵 日本語 | 🇰🇷 한국어 |
+| 🇺🇸 English | 🇨🇳 中文 | 🇯🇵 日本語 | 🇰🇷 한국어 |
 |:---|:---|:---|:---|
-| [核心策略](https://github.com/Gingiris/gingiris-launch/blob/main/references/strategy.md) | [Core Strategy](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/strategy.md) | [コア戦略](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/strategy.md) | [핵심 전략](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/strategy.md) |
-| [准备阶段](https://github.com/Gingiris/gingiris-launch/blob/main/references/preparation.md) | [Preparation](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/preparation.md) | [準備段階](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/preparation.md) | [준비 단계](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/preparation.md) |
-| [产品发布](https://github.com/Gingiris/gingiris-launch/blob/main/references/product-launch.md) | [Product Launch](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/product-launch.md) | [製品ローンチ](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/product-launch.md) | [제품 출시](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/product-launch.md) |
-| [PH发布](https://github.com/Gingiris/gingiris-launch/blob/main/references/ph-launch.md) | [PH Launch](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/ph-launch.md) | [PHローンチ](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/ph-launch.md) | [PH 출시](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/ph-launch.md) |
-| [内容模板](https://github.com/Gingiris/gingiris-launch/blob/main/references/templates.md) | [Templates](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/templates.md) | [テンプレート](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/templates.md) | [템플릿](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/templates.md) |
-| [工具箱](https://github.com/Gingiris/gingiris-launch/blob/main/references/tools.md) | [Tools](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/tools.md) | [ツール](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/tools.md) | [도구](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/tools.md) |
+| [Core Strategy](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/strategy.md) | [核心策略](https://github.com/Gingiris/gingiris-launch/blob/main/references/strategy.md) | [コア戦略](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/strategy.md) | [핵심 전략](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/strategy.md) |
+| [Preparation](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/preparation.md) | [准备阶段](https://github.com/Gingiris/gingiris-launch/blob/main/references/preparation.md) | [準備段階](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/preparation.md) | [준비 단계](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/preparation.md) |
+| [Product Launch](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/product-launch.md) | [产品发布](https://github.com/Gingiris/gingiris-launch/blob/main/references/product-launch.md) | [製品ローンチ](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/product-launch.md) | [제품 출시](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/product-launch.md) |
+| [PH Launch](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/ph-launch.md) | [PH发布](https://github.com/Gingiris/gingiris-launch/blob/main/references/ph-launch.md) | [PHローンチ](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/ph-launch.md) | [PH 출시](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/ph-launch.md) |
+| [Templates](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/templates.md) | [内容模板](https://github.com/Gingiris/gingiris-launch/blob/main/references/templates.md) | [テンプレート](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/templates.md) | [템플릿](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/templates.md) |
+| [Tools](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/tools.md) | [工具箱](https://github.com/Gingiris/gingiris-launch/blob/main/references/tools.md) | [ツール](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/tools.md) | [도구](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/tools.md) |
 
 ---
 
