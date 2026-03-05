@@ -1,59 +1,77 @@
-# 🚀 AI 产品全球发布行动指南
+# 🚀 AI Product Launch Playbook
 
-> **OpenClaw Skill** | 版本：Final v7.0
+> **The definitive guide to launching AI products globally** — Complete Product Hunt launch strategy, Launch Week SOP, and growth playbook based on Manus & Devin's viral success.
 
-基于 Manus、Devin 等现象级产品的实战复盘，包含完整的 Product Launch 和 Product Hunt 发布 SOP。
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://github.com/openclaw/openclaw)
+[![Languages](https://img.shields.io/badge/Languages-4-green)](#-multilingual-support)
 
-## 🌍 多语言支持
+## What is this?
 
-| 语言 | 入口 |
+This is a **battle-tested product launch playbook** for AI startups, indie hackers, and open-source projects. It covers everything from pre-launch preparation to Product Hunt ranking strategies, based on real case studies from **Manus** (200-300M impressions) and **Devin** (viral AI launch).
+
+**Key topics covered:**
+- 🎯 Product Hunt launch strategy (24-hour battle plan)
+- 📈 Launch Week execution (Day 1-5 playbook)
+- 🤝 KOL & influencer outreach (with contact list)
+- 📱 UGC growth engine (Wispr Flow model)
+- 💬 Reddit & Hacker News marketing
+- 📊 Budget templates ($15K-$50K campaigns)
+
+## 🌍 Multilingual Support
+
+| Language | Entry Point |
 |:---|:---|
 | 🇨🇳 中文 | [SKILL.md](SKILL.md) |
 | 🇺🇸 English | [references/en/README.md](references/en/README.md) |
 | 🇯🇵 日本語 | [references/ja/README.md](references/ja/README.md) |
 | 🇰🇷 한국어 | [references/ko/README.md](references/ko/README.md) |
 
-## ✨ 特性
-
-- 🎯 **案例复盘**：Manus、Devin 等现象级产品的完整时间线分析
-- 📈 **病毒传播四大支柱**：产品力、情绪叙事、KOL飞轮、平台接力
-- 🤝 **KOL策略**：Newsletter创始人价值最高，附完整联系方式
-- 📝 **UGC引擎**：Wispr Flow 模式（10策略师+70执行者）
-- 🎯 **PH打榜**：24小时作战计划 + 投票策略
-- 📊 **预算模板**：$15K-$50K 不同规模方案
-
-## 📦 安装
+## 📦 Installation
 
 ```bash
+# Clone to OpenClaw skills directory
 git clone https://github.com/Gingiris/gingiris-launch.git ~/.openclaw/skills/gingiris-launch
 ```
 
-## 🎯 触发场景
+## 📚 Contents
 
-- "准备产品发布" / "plan a product launch"
-- "Product Hunt 上线" / "PH launch"
-- "KOL 合作" / "influencer outreach"
-- "UGC 増长" / "creator marketing"
-- "Reddit 运营" / "Reddit marketing"
+| Guide | Description |
+|:---|:---|
+| [Core Strategy](references/strategy.md) | Viral launch principles, Manus/Devin case analysis |
+| [Preparation](references/preparation.md) | L-6 to L-1 week checklist, KOL screening |
+| [Launch Week](references/product-launch.md) | Day 1-5 execution plan |
+| [Product Hunt](references/ph-launch.md) | 24-hour battle plan, upvote strategy |
+| [Templates](references/templates.md) | Ready-to-use Twitter, Reddit, DM templates |
+| [Tools](references/tools.md) | Essential tools for launch campaigns |
+| [Budget](references/budget.md) | $15K-$50K budget allocation |
 
-## 📚 内容结构
+## 🎯 Key Insights
 
-```
-gingiris-launch/
-├── SKILL.md                      # 核心入口
-├── references/
-│   ├── strategy.md               # 核心策略（中文）
-│   ├── preparation.md            # 准备阶段
-│   ├── product-launch.md         # Launch Week
-│   ├── ph-launch.md              # PH 发布
-│   ├── templates.md              # 内容模板
-│   ├── tools.md                  # 工具箱
-│   ├── budget.md                 # 预算分配
-│   ├── en/                       # English
-│   ├── ja/                       # 日本語
-│   └── ko/                       # 한국어
-```
+### The 4 Pillars of Viral Launch
+
+1. **Product Power** — Launch video must be "impressive enough" and "reproducible by users"
+2. **Emotional Narrative** — Evolve from product story to emotional story (e.g., "Second Deepseek Moment")
+3. **Influencer Flywheel** — Newsletter founders > AI hype accounts
+4. **Platform Relay** — X (Day 0-3) → YouTube (Day 3-10) → Reddit/HN (Day 10+)
+
+### Top AI Newsletter Founders (Highest Value)
+
+| Newsletter | Founder | X Handle |
+|:---|:---|:---|
+| The Rundown AI | Rowan Cheung | @rowancheung |
+| Superhuman AI | Zain Kahn | @heykahn |
+| Ben's Bites | Ben Tossell | @bentossell |
+
+## 🔗 Related Resources
+
+- [gingiris-b2b-growth](https://github.com/Gingiris/gingiris-b2b-growth) — B2B SaaS growth playbook
+- [OpenClaw](https://github.com/openclaw/openclaw) — AI agent framework
+
+## 👤 Author
+
+**Iris (生姜iris)** — Former COO @ AFFiNE (60K GitHub stars), Product Hunt #1 Daily × 30
 
 ## 📄 License
 
-MIT
+MIT — Feel free to use, modify, and share.
