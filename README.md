@@ -17,7 +17,7 @@
 
 ## ⭐ Star This Repo
 
-<img width="100%" src="assets/star.gif" alt="Star this repo" />
+<img width="100%" src="assets/star.png" alt="Star this repo" />
 
 If you find this playbook useful, a GitHub Star ⭐ helps others discover it!
 
