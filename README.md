@@ -1,20 +1,38 @@
----
-name: gingiris-launch
-description: |
-  🇺🇸 AI Product Global Launch Playbook — Battle-tested strategies from viral products like Manus & Devin. Complete Product Hunt launch SOP, KOL outreach, UGC growth tactics.
-  
-  🇨🇳 AI产品全球发布行动指南 — 基于 Manus、Devin 等现象级产品的实战复盘。包含完整的 Product Hunt 发布 SOP、KOL 合作、UGC 增长策略。
-  
-  🇯🇵 AIプロダクトグローバルローンチガイド — Manus、Devinなどのバイラル製品の実戦経験に基づく。Product Hunt発売SOP、KOLアウトリーチ、UGC成長戦略を含む。
-  
-  🇰🇷 AI 제품 글로벌 런칭 플레이북 — Manus, Devin 등 바이럴 제품의 실전 경험 기반. Product Hunt 런칭 SOP, KOL 협업, UGC 성장 전략 포함.
-  
-  Triggers: "product launch" | "Product Hunt" | "PH launch" | "KOL outreach" | "influencer marketing" | "UGC growth" | "Reddit marketing" | "go global" | "出海运营" | "产品发布"
+<div align="center">
+
+<img src="assets/logo.png" alt="Gingiris Logo" width="120" />
+
+# AI Product Launch Playbook
+
+### Battle-tested strategies for global AI product launches — Product Hunt, KOL outreach, UGC growth, Reddit marketing
+
+[![GitHub stars](https://img.shields.io/github/stars/Gingiris/gingiris-launch?style=social)](https://github.com/Gingiris/gingiris-launch/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+**[English](references/en/README.md) | [中文](#中文版) | [日本語](references/ja/README.md) | [한국어](references/ko/README.md)**
+
+</div>
+
 ---
 
-# AI 产品全球发布行动指南
+## ⭐ Star This Repo
 
-> 🌍 **Language / 语言**: [中文](#中文版) | [English](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/README.md) | [日本語](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/README.md) | [한국어](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/README.md)
+<img width="100%" src="assets/star.gif" alt="Star this repo" />
+
+If you find this playbook useful, a GitHub Star ⭐ helps others discover it!
+
+---
+
+## Why This Playbook?
+
+Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://github.com/toeverything/AFFiNE) (60k+ stars). This playbook documents the exact strategies that achieved:
+
+| Metric | Result |
+|--------|--------|
+| 🏆 Product Hunt #1 Daily | 30 times |
+| ⭐ GitHub Stars (7 days) | 6,000+ |
+| ⭐ GitHub Stars (18 months) | 33,000+ |
+| 🌍 Countries Reached | 100+ |
 
 ---
 
@@ -42,7 +60,7 @@ description: |
 | 势能积累期 | L+1周至+4周 | 持续运营，积累势能 |
 | 🎯 **PH发布** | PH Day | 24小时作战计划 |
 
-### 详细指南（中文）
+### 详细指南
 
 | 主题 | 文件 |
 |:---|:---|
@@ -66,3 +84,19 @@ description: |
 | [PH发布](https://github.com/Gingiris/gingiris-launch/blob/main/references/ph-launch.md) | [PH Launch](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/ph-launch.md) | [PHローンチ](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/ph-launch.md) | [PH 출시](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/ph-launch.md) |
 | [内容模板](https://github.com/Gingiris/gingiris-launch/blob/main/references/templates.md) | [Templates](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/templates.md) | [テンプレート](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/templates.md) | [템플릿](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/templates.md) |
 | [工具箱](https://github.com/Gingiris/gingiris-launch/blob/main/references/tools.md) | [Tools](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/tools.md) | [ツール](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/tools.md) | [도구](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/tools.md) |
+
+---
+
+## About the Author
+
+**Iris (生姜iris)** — Former cofounder & COO of AFFiNE, led global go-to-market from 0 to millions of users.
+
+- 🐦 Twitter: [@Gingiris_](https://twitter.com/Gingiris_)
+- 💬 Telegram: [@Iris_carrot](https://t.me/Iris_carrot)
+- 📧 Consulting available
+
+---
+
+## License
+
+MIT License - Feel free to use and adapt for your own launches!
