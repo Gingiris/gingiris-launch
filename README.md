@@ -28,6 +28,18 @@
 
 ---
 
+> 🌱 **Our Philosophy**
+> 
+> *"创业没有那么高大上，创业就是做生意。"* — Startups aren't glamorous; they're just business.
+> 
+> *"不要让你的 ego 大过你的用户。"* — Don't let your ego overshadow your users.
+> 
+> *"从 Day 0 就要勇敢收费。"* — Be brave enough to charge from Day 0.
+> 
+> This playbook isn't just tactics — it's a mindset shift. We believe in **real value over vanity metrics**, **community over broadcast**, and **learning from failures**.
+
+---
+
 > 💡 **Need a 1-on-1 architecture call for your B2B/Open-source launch? Book a session for $200** (Crypto/USDT and Wire Transfer accepted) — [Contact @Iris_carrot on Telegram](https://t.me/Iris_carrot)
 
 ---
@@ -62,6 +74,16 @@ Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://git
 | ⭐ GitHub Stars (7 days) | 6,000+ | Achieved at AFFiNE |
 | ⭐ GitHub Stars (18 months) | 33,000+ | Achieved at AFFiNE |
 | 🌍 Countries Reached | 100+ | Achieved at AFFiNE |
+
+### 🤝 Community Success Stories
+
+Real results from founders using this playbook:
+
+| Project | Result | Story |
+|---------|--------|-------|
+| *Your project here* | — | [Share yours →](https://github.com/Gingiris/gingiris-launch/issues/new?labels=success-story&title=🎉+Success+Story:+[Your+Project]) |
+
+> 📢 **Used this playbook for your launch?** We'd love to feature your story! [Submit your case study](https://github.com/Gingiris/gingiris-launch/issues/new?labels=success-story&title=🎉+Success+Story:+[Your+Project])
 
 ---
 
