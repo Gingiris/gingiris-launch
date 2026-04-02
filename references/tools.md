@@ -31,13 +31,14 @@
 
 ---
 
-## 社媒自动化与触达工具
+## 社媒触达工具
+
+> ⚠️ **注意：** 自动化批量 DM 工具（如 Twitter/LinkedIn DM 机器人）违反大多数平台的服务条款，可能导致账号被封禁。建议始终优先采用手动、个性化的外联方式。
 
 | 工具 | 用途 | 链接 |
 |:---|:---|:---|
-| XAutoDM | Twitter DM自动化 | [xautodm.com](https://xautodm.com/) |
-| Phantombuster | LinkedIn DM工具 | [phantombuster.com](https://phantombuster.com/) |
-| RapidAPI | API集成与自动化 | [rapidapi.com](https://rapidapi.com/) |
+| EEzycollab | KOL匹配与个性化邮件外联 | [eezycollab.com](https://www.eezycollab.com/) |
+| RapidAPI | API集成与开发工具 | [rapidapi.com](https://rapidapi.com/) |
 
 ---
 

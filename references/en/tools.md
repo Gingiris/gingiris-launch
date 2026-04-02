@@ -21,12 +21,14 @@
 | Magicbrief | KOL/UGC brief writing | [magicbrief.com](https://magicbrief.com/) |
 | Viral.app | UGC traffic tracking | [viral.app](https://viral.app/) |
 
-## Social Media Automation
+## Social Media Outreach
+
+> ⚠️ **Note:** Automated mass-DM tools (e.g., Twitter/LinkedIn DM bots) violate the Terms of Service of most platforms and can result in account suspension. Manual, personalized outreach is always preferred.
 
 | Tool | Purpose | Link |
 |:---|:---|:---|
-| XAutoDM | Twitter DM automation | [xautodm.com](https://xautodm.com/) |
-| Phantombuster | LinkedIn DM tool | [phantombuster.com](https://phantombuster.com/) |
+| EEzycollab | KOL matching & personalized email outreach | [eezycollab.com](https://www.eezycollab.com/) |
+| Magicbrief | KOL/UGC brief writing | [magicbrief.com](https://magicbrief.com/) |
 
 ## Link Tracking & Analytics
 

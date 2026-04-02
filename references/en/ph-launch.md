@@ -62,23 +62,22 @@
 
 ## Upvote Strategy
 
-### Vote Clearing Mechanism
-- PH clears votes approximately every 2 hours
-- ~100 votes per hour limit
-- Ensure diverse IP addresses
-- Avoid concentrated voting in short time
+> ⚠️ **Important:** Product Hunt has strict rules against artificial vote manipulation. All upvote activity must come from genuine users who have tried or are interested in your product. Tactics that coordinate votes from users who have not used the product, or that use multiple accounts/IPs to simulate organic activity, violate PH's guidelines and can result in vote removal or account bans.
 
-### Channel Tactics
-| Channel | Expected Effect |
+### Driving Genuine Upvotes
+
+The best way to rank highly on Product Hunt is to build a real community of users before launch day. Focus on:
+
+| Channel | Best Practice |
 |:---|:---|
-| LinkedIn | 3 people can bring 200-300 votes |
-| LinkedIn (5 premium + interns) | 1000 votes/day |
-| Telegram/Facebook groups | Post PH link for upvotes |
-| Email incentive | Pre-filter users with PH accounts |
+| Existing community | Notify your Discord/Telegram/newsletter subscribers — they are your most genuine supporters |
+| Social media | Share your PH page on Twitter/LinkedIn with an honest, compelling message |
+| Personal network | Reach out personally to friends, colleagues, and advisors who have genuinely used the product |
+| Email list | Send a launch-day email to your subscriber list with a direct link to your PH page |
 
 ### Contingency Plans
 | Situation | Response |
 |:---|:---|
 | Not Featured | Contact support@producthunt.com |
 | Pre-launched by others | Contact PH, provide ownership proof |
-| Mass vote clearing | Pause concentrated promotion, disperse |
+| Votes removed | Review your promotion strategy for any activity that may have appeared inauthentic; focus on genuine community engagement |

@@ -18,12 +18,13 @@
 | Growi | クリエイター/UGC管理 | [growi.io](https://www.growi.io/grow) |
 | Magicbrief | KOL/UGCブリーフ作成 | [magicbrief.com](https://magicbrief.com/) |
 
-## ソーシャルメディア自動化
+## ソーシャルメディアリーチ
+
+> ⚠️ **注意:** 自動化一括 DM ツール（Twitter/LinkedIn DM ボットなど）は、ほとんどのプラットフォームの利用規約に違反し、アカウント封帰の原因になります。常に手動・個別化されたアウトリーチを優先してください。
 
 | ツール | 目的 | リンク |
 |:---|:---|:---|
-| XAutoDM | Twitter DM自動化 | [xautodm.com](https://xautodm.com/) |
-| Phantombuster | LinkedIn DMツール | [phantombuster.com](https://phantombuster.com/) |
+| EEzycollab | KOLマッチングとパーソナライズドメールアウトリーチ | [eezycollab.com](https://www.eezycollab.com/) |
 
 ## リンクトラッキング＆アナリティクス
 
