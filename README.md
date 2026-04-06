@@ -251,3 +251,12 @@ Want all four playbooks in one comprehensive package? Get the **Open-Source Proj
 ## License
 
 MIT License - Feel free to use and adapt for your own go-to-market strategy!
+
+## 📖 Full Guides & Blog Posts
+
+- [Product Hunt Launch Playbook: The Definitive Guide (30x #1 Winner)](https://gingiris.github.io/growth-tools/blog/2026/03/25/product-hunt-launch-playbook-the-definitive-guide-30x-1-winner/)
+- [How to Launch on Product Hunt: Step-by-Step](https://gingiris.github.io/growth-tools/blog/2026/03/29/how-to-launch-on-product-hunt-stepbystep-guide-30x-1-winner/)
+- [AFFiNE GitHub Stars: How We Grew from 0 to 60K](https://gingiris.github.io/growth-tools/blog/2026/03/25/how-to-get-more-github-stars-the-definitive-guide-33k-stars-case-study/)
+- [Reddit Marketing Without Getting Banned](https://gingiris.github.io/growth-tools/blog/2026/03/30/reddit-marketing-guide-how-to-promote-without-getting-banned/)
+- [After Product Hunt: 7 Ways to Keep the Momentum](https://gingiris.github.io/growth-tools/blog/2026/04/06/after-product-hunt-launch-7-ways-to-keep-momentum/)
+
