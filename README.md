@@ -4,7 +4,7 @@
 
 # Go-to-Market Strategy Playbook
 
-### Complete GTM strategy for AI products & startups — Product Hunt, KOL outreach, viral marketing, Reddit growth
+### The complete product hunt launch playbook & startup launch checklist — go-to-market strategy, how to launch on product hunt, KOL outreach, viral marketing
 
 [![GitHub stars](https://img.shields.io/github/stars/Gingiris/gingiris-launch?style=social)](https://github.com/Gingiris/gingiris-launch/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Gingiris/gingiris-launch?style=social)](https://github.com/Gingiris/gingiris-launch/network/members)
