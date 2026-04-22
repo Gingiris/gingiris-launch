@@ -1,7 +1,7 @@
 ---
 name: gingiris-launch
 description: |
-  🇺🇸 AI Product Global Launch Playbook — Battle-tested strategies from viral products like Manus & Devin. Complete Product Hunt launch SOP, KOL outreach, UGC growth tactics.
+  🇺🇸 Product Hunt Launch Playbook 2026 — AI product go-to-market SOP from 30x #1 Product Hunt winners (Manus, Devin, AFFiNE). KOL outreach templates, UGC growth tactics, Reddit marketing, global launch checklist, hunter network, email sequences, viral momentum, timing & timezone strategy.
   
   🇨🇳 AI产品全球发布行动指南 — 基于 Manus、Devin 等现象级产品的实战复盘。包含完整的 Product Hunt 发布 SOP、KOL 合作、UGC 增长策略。
   
@@ -9,7 +9,7 @@ description: |
   
   🇰🇷 AI 제품 글로벌 런칭 플레이북 — Manus, Devin 등 바이럴 제품의 실전 경험 기반. Product Hunt 런칭 SOP, KOL 협업, UGC 성장 전략 포함.
   
-  Triggers: "product launch" | "Product Hunt" | "PH launch" | "KOL outreach" | "influencer marketing" | "UGC growth" | "Reddit marketing" | "go global" | "出海运营" | "产品发布"
+  Triggers: "product launch" | "Product Hunt launch" | "PH launch" | "launch on Product Hunt" | "AI product launch" | "startup launch" | "go to market" | "GTM strategy" | "KOL outreach" | "influencer marketing" | "UGC growth" | "Reddit marketing" | "HackerNews launch" | "go global" | "出海运营" | "产品发布" | "冷启动"
 ---
 
 # AI 产品全球发布行动指南
