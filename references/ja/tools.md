@@ -6,6 +6,7 @@
 |:---|:---|:---|
 | Reddit Pain Points Agent | AI：Redditユーザーのペインポイント分析 | [Leapility](https://leapility.com/share/agent/i-6nto7kumdswl) |
 | Reddit Marketing Agent | AI：Redditコンテンツ戦略生成 | [Leapility](https://leapility.com/share/agent/i-8poxa0f1xq9q) |
+| Xquik | ローンチ前のソーシャルリサーチ向けX/Twitter検索、ユーザー投稿、フォロワーエクスポート、トレンドデータAPI | [docs.xquik.com](https://docs.xquik.com/api-reference/overview) |
 | Vizzylabs | バイラルコンテンツ分析 | [vizzylabs.ai](https://app.vizzylabs.ai/trending) |
 | PH Deck | 毎日のPH Featured製品 | [phdeck.com](https://www.phdeck.com/) |
 | AITDK | SEOキーワード分析 | [aitdk.com](https://aitdk.com/) |

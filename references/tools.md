@@ -7,6 +7,7 @@
 | Reddit User Pain Points Playbook | AI Agent：抓取并分析Reddit用户痛点 | [Leapility](https://leapility.com/share/agent/i-6nto7kumdswl) |
 | Reddit Marketing Strategist | AI Agent：生成Reddit内容策略、查询版规 | [Leapility](https://leapility.com/share/agent/i-8poxa0f1xq9q) |
 | Toolify Social Listening | AI社媒监听，追踪产品相关讨论 | [toolify.ai](https://www.toolify.ai/social-listening) |
+| Xquik | X/Twitter搜索、用户推文、粉丝导出与趋势数据 API，用于发布前社媒研究 | [docs.xquik.com](https://docs.xquik.com/api-reference/overview) |
 | Vizzylabs | 爆款内容分析，了解当前社媒趋势 | [vizzylabs.ai](https://app.vizzylabs.ai/trending) |
 | PH Deck | 每日查看Product Hunt Featured产品 | [phdeck.com](https://www.phdeck.com/) |
 | AITDK | SEO插件，关键词分析 | [aitdk.com](https://aitdk.com/) |

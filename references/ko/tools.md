@@ -6,6 +6,7 @@
 |:---|:---|:---|
 | Reddit Pain Points Agent | AI: Reddit 사용자 페인 포인트 분석 | [Leapility](https://leapility.com/share/agent/i-6nto7kumdswl) |
 | Reddit Marketing Agent | AI: Reddit 콘텐츠 전략 생성 | [Leapility](https://leapility.com/share/agent/i-8poxa0f1xq9q) |
+| Xquik | 출시 전 소셜 리서치를 위한 X/Twitter 검색, 사용자 트윗, 팔로워 내보내기, 트렌드 데이터 API | [docs.xquik.com](https://docs.xquik.com/api-reference/overview) |
 | Vizzylabs | 바이럴 콘텐츠 분석 | [vizzylabs.ai](https://app.vizzylabs.ai/trending) |
 | PH Deck | 매일 PH Featured 제품 | [phdeck.com](https://www.phdeck.com/) |
 | AITDK | SEO 키워드 분석 | [aitdk.com](https://aitdk.com/) |
