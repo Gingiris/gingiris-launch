@@ -7,6 +7,7 @@
 | Reddit Pain Points Agent | AI: Scrape and analyze Reddit user pain points | [Leapility](https://leapility.com/share/agent/i-6nto7kumdswl) |
 | Reddit Marketing Agent | AI: Generate Reddit content strategy | [Leapility](https://leapility.com/share/agent/i-8poxa0f1xq9q) |
 | Toolify Social Listening | Track product-related discussions | [toolify.ai](https://www.toolify.ai/social-listening) |
+| Xquik | X/Twitter search, user tweets, follower export, and trends API for pre-launch social research | [docs.xquik.com](https://docs.xquik.com/api-reference/overview) |
 | Vizzylabs | Viral content analysis | [vizzylabs.ai](https://app.vizzylabs.ai/trending) |
 | PH Deck | Daily PH featured products | [phdeck.com](https://www.phdeck.com/) |
 | AITDK | SEO keyword analysis | [aitdk.com](https://aitdk.com/) |
